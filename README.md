@@ -15,5 +15,7 @@ Perhaps I spent too many hours trying to do this, but it was soooo satisfying on
 
 From then it was a lot of development and still is.
 
-My next project involves creating a game for ASHRAE (American Society of Heating, Refrigerating and Air Conditioning Engineers) which I'm proud to be part of.
+Currently studying more and more about Data.
+
+It is the beginning of the Data Engineer Journey.
 
